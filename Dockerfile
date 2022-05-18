@@ -1,2 +1,0 @@
-RUN registry.cloud.okteto.net/rioprojectx/generatestring-v2-worker:30c5e6aa9aa6dc052cc30e682ca2a455b68f62fcf78e44a02e412318c340f876
-WORKDIR 
