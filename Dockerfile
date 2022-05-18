@@ -1,6 +1,2 @@
-RUN git clone -b GenerateString-V2 https://github.com/RioProjectX/GenerateString-V2
-RUN mkdir /root/master/.bin
-RUN pip install --upgrade pip setuptools
-WORKDIR /root/master
- # Finalization
- CMD ["python3","-m","master"]
+RUN registry.cloud.okteto.net/rioprojectx/generatestring-v2-worker:30c5e6aa9aa6dc052cc30e682ca2a455b68f62fcf78e44a02e412318c340f876
+WORKDIR 
