@@ -1,7 +1,7 @@
 {
   "name": "sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ",
   "description": "A Telegram Bot to generate Telethon and Pyrogram String Sessions.",
-  "logo": "https://telegra.ph/file/654ddaf472f18b799600b.jpg",
+  "logo": "https://telegra.ph/file/6c7458e6468f89976bbf0.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/AnonymousR1025/StringGenBot",
+  "repository": "https://github.com/RIopROJECTX/GenerateString-V2",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -45,7 +45,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "DevilsHeavenMF"
+      "value": "rioprojects"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
