@@ -1,10 +1,6 @@
 
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/rioprojectx"><img alt="Website" src="https://img.shields.io/badgerioprojectx-blue"></a>
- 
-[![Stars](https://img.shields.io/github/stars/AnonymousR1025/StringGenBot?style=social)](https://github.com/AnonymousR1025/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/AnonymousR1025/StringGenBot?style=social)](https://github.com/AnonymousR1025/StringGenBot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
